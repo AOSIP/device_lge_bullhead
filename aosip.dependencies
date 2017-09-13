@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "akhilnarang/bullhead",
+    "target_path": "kernel/lge/bullhead"
+  },
+  {
+    "repository": "PureNexusProject/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "o"
+  }
+]
